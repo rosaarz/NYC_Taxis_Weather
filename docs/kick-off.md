@@ -45,10 +45,4 @@ Since it would be a new business unit, it is intended to make a preliminary anal
 
 <br>
 
-## Related documents
-
-Repository: https://github.com/rosaarz/nyc-taxis-analysis.git 
-
 Notion template: [https://www.notion.so/2222c531028f45d68](https://skinny-redcurrant-066.notion.site/2222c531028f45d6828f236dcc107802?v=8744aa4fd4874102a67ac8b5a54af459)
-
-Henry Project: https://github.com/soyHenry/DS-Proyecto_Grupal_TaxisNYC
